@@ -7,3 +7,5 @@ print("All initialization is done ")
 @app.get('/hello')
 def hello():
    return {'hello': 'world'}
+
+#localhost:8000/docs#/
